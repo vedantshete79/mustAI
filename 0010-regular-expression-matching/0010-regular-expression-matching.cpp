@@ -8,7 +8,7 @@ public:
 
         dp[0][0] = true;
 
-        // Handle patterns like a*, a*b*, a*b*c*
+      
         for (int j = 2; j <= n; j++) {
             if (p[j - 1] == '*')
                 dp[0][j] = dp[0][j - 2];
@@ -23,10 +23,10 @@ public:
 
                 else if (p[j - 1] == '*') {
 
-                    // Match zero occurrences
+                  
                     dp[i][j] = dp[i][j - 2];
 
-                    // Match one or more occurrences
+                    
                     if (p[j - 2] == '.' || p[j - 2] == s[i - 1]) {
                         dp[i][j] = dp[i][j] || dp[i - 1][j];
                     }
