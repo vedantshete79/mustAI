@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vedantshete79/mustAI/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/vedantshete79/mustAI/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vedantshete79/mustAI/tree/master/0009-palindrome-number) |
 ## String
@@ -22,6 +23,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vedantshete79/mustAI/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/vedantshete79/mustAI/tree/master/0010-regular-expression-matching) |
 ## Two Pointers
 |  |
@@ -47,4 +49,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vedantshete79/mustAI/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vedantshete79/mustAI/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
