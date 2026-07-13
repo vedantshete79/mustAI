@@ -32,6 +32,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/vedantshete79/mustAI/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/vedantshete79/mustAI/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/vedantshete79/mustAI/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/vedantshete79/mustAI/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vedantshete79/mustAI/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/vedantshete79/mustAI/tree/master/0021-merge-two-sorted-lists) |
 ## Greedy
 |  |
 | ------- |
